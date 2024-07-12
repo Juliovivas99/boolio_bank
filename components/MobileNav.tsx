@@ -37,8 +37,8 @@ const MobileNav = ({user}: MobileNavProps) => {
                 height={34}
                 alt='Horizion Logo'
                 />
-                <h1 className='text-26 font-ibm-plex-serif font-bold text-black-1'>Boolio Bank</h1>
-            </Link>
+            <h1 className='text-26 font-ibm-plex-serif font-bold text-black-1'>Julio Bank</h1>
+    </Link>
             <div className="mobilenav-sheet">
                 <SheetClose asChild>
                     <nav className="flex h-full flex-col gap-6 pt-16 text-white">

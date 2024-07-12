@@ -10,7 +10,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
   variable: '--font-ibm-plex-serif',
 }) 
 export const metadata: Metadata = {
-  title: "Boolio",
+  title: "Julio Bank",
   description: "Boolio Bank is a modern bank for the digital age.",
   icons: {
     icon: '/icons/logo.svg',

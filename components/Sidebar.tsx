@@ -20,7 +20,7 @@ const Sidebar = ({user}: SiderbarProps) => {
             alt='Horizion Logo'
             className='size-[24px] max-xl:size-14'
             />
-            <h1 className='sidebar-logo'>Boolio Bank</h1>
+            <h1 className='sidebar-logo'>Julio Bank</h1>
          </Link>
 
          {sidebarLinks.map((item) => {
